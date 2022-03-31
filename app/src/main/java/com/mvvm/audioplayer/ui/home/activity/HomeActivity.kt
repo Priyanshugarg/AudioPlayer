@@ -11,6 +11,6 @@ class HomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         activityHomeBinding = ActivityHomeBinding.inflate(layoutInflater)
         setContentView(activityHomeBinding!!.root)
-        activityHomeBinding.tvMohan.text="Nagar"
+        activityHomeBinding.tvMohan.text="Moahn Nage"
     }
 }
